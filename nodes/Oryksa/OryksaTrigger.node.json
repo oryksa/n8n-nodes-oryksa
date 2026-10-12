@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-oryksa.oryksaTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["AI", "Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://developer.oryksa.com/en/authentication"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://developer.oryksa.com/en/webhooks"
+			}
+		]
+	}
+}
