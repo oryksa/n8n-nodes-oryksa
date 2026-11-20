@@ -1,5 +1,7 @@
 # n8n-nodes-oryksa
 
+[![English](https://img.shields.io/badge/English-0891b2?style=for-the-badge)](README.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-30363d?style=for-the-badge)](README.pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-30363d?style=for-the-badge)](README.es.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-30363d?style=for-the-badge)](README.fr.md)
+
 This is an n8n community node. It lets you use [ORYKSA](https://oryksa.com) in your n8n workflows.
 
 ORYKSA is an AI assistant for your business. With this node a workflow can use ORYKSA as its AI model, ask your own ORYKSA assistant (which knows your business), let it act for you with your approval, create pictures, turn audio into text and text into voice, and start when something happens in ORYKSA.
